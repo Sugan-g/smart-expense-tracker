@@ -40,3 +40,7 @@ Smart Expense Tracker project using react-js that users to allow to their data u
 - Recharts - for data visualizations
 
 ## Installation setup
+
+git remote add origin https://github.com/sugan-g/smart-expense-tracker.git
+npm install
+npm run dev
